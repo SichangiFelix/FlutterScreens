@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-//contributing babay
 class LoginScreen4 extends StatefulWidget {
   final Color primaryColor;
   final Color secondaryColor;
